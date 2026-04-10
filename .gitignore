@@ -1,0 +1,19 @@
+# Environnements virtuels
+env/
+venv/
+
+# Fichiers compilés Python
+__pycache__/
+*.pyc
+
+# Fichiers audio personnels
+data/*.wav
+data/*.mp3
+
+# Si les modèles PyTorch (.pth) dépassent 100 Mo, décommente la ligne suivante :
+# models/*.pth
+
+# Bloquer les datasets et gros fichiers
+data/fer2013_raw/
+*.csv
+*.pth

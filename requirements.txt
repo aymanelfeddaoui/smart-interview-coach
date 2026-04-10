@@ -1,0 +1,20 @@
+# --- PILIER PERCEPTION ---
+# Vision et traitement d'image (pour les micro-expressions)
+opencv-python
+
+# Audio (pour analyser la voix)
+librosa
+
+# --- DEEP LEARNING ---
+# PyTorch (le moteur principal pour nos réseaux de neurones)
+torch
+torchvision
+torchaudio
+
+# --- BACKEND ET INTERFACE ---
+# Pour connecter nos modèles d'IA à l'interface
+fastapi
+uvicorn
+
+# Pour créer le dashboard candidat facilement en Python
+streamlit
