@@ -5,7 +5,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-UI-FF4B4B)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8)
 
-Un simulateur d'entretien d'embauche autonome et intelligent, développé par Imad Bouferdou, Ayman El Feddaoui et Zakaria Mokarram (ENSIAS). 
+Un simulateur d'entretien d'embauche autonome et intelligent
 
 Ce système analyse en temps réel les compétences et l'état émotionnel du candidat pour adapter dynamiquement la stratégie d'entretien.
 
