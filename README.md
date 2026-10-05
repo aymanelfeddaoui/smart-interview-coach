@@ -9,13 +9,13 @@ Un simulateur d'entretien d'embauche autonome et intelligent
 
 Ce système analyse en temps réel les compétences et l'état émotionnel du candidat pour adapter dynamiquement la stratégie d'entretien.
 
-## 🌟 Fonctionnalités (Pipeline End-to-End)
+## Fonctionnalités (Pipeline End-to-End)
 * **Perception Visuelle (Vision) :** Détection du niveau de stress via une analyse faciale en direct (CNN / ResNet + OpenCV).
 * **Perception Audio :** Extraction de l'intonation (MFCC) et transcription vocale robuste (Whisper OpenAI).
 * **Cognition Sémantique (NLP) :** Évaluation de la pertinence des réponses via Similarité Cosinus (all-MiniLM-L6-v2).
 * **Cerveau Stratégique (RL) :** Prise de décision adaptative pilotée par un agent Q-Learning entraîné sur 50 000 simulations.
 
-## 🚀 Installation & Utilisation
+## Installation & Utilisation
 
 1. Clonez ce dépôt :
 `git clone https://github.com/VOTRE_NOM/smart-interview-coach.git`
@@ -26,5 +26,5 @@ Ce système analyse en temps réel les compétences et l'état émotionnel du ca
 3. Lancez l'interface web :
 `streamlit run app.py`
 
-## 🏗️ Architecture
+## Architecture
 Le système repose sur une Machine à États (State Machine) dans Streamlit, permettant une capture multimodale (Webcam + Micro) non-bloquante directement dans le navigateur.
