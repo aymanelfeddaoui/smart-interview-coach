@@ -1,4 +1,4 @@
-# 🤖 Smart Interview Coach
+# Smart Interview Coach
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C)
